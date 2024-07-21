@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "114510RecuperatorioScafolding", "114510RecuperatorioScafolding\114510RecuperatorioScafolding.csproj", "{066F3FD8-E369-473C-88EE-65504E9063CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066F3FD8-E369-473C-88EE-65504E9063CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066F3FD8-E369-473C-88EE-65504E9063CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066F3FD8-E369-473C-88EE-65504E9063CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066F3FD8-E369-473C-88EE-65504E9063CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E45E62-7458-4437-8E19-FDD81AB7991D}
+	EndGlobalSection
+EndGlobal
